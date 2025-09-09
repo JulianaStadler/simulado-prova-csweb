@@ -1,0 +1,7 @@
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.csproj.AssemblyReference.cache
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.AssemblyInfoInputs.cache
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.AssemblyInfo.cs
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.csproj.CoreCompileInputs.cache
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BEJ4CT\Desktop\opa\simulado-prova-csweb\obj\Debug\net8.0\simulado-prova-csweb.sourcelink.json

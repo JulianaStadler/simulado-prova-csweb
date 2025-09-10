@@ -55,8 +55,7 @@ public class WebSiteFanficDbContext(DbContextOptions options) : DbContext(option
         model.Entity<ReadingList>()
             .HasMany(rl => rl.Fanfics)
             .WithMany(f => f.ReadingLists)
-            .UsingEntity(j => j.ToTable("ReadingListFanfics"))
-            .OnDelete(DeleteBehavior.NoAction);
+            .UsingEntity(j => j.ToTable("ReadingListFanfics"));
 
    }
 }

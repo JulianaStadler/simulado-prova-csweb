@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\simulado-prova-csweb.props" />
+</Project>

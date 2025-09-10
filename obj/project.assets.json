@@ -4723,24 +4723,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BEJ4CT\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BEJ4CT\\Desktop\\opa\\simulado-prova-csweb\\simulado-prova-csweb.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\pa\\WebSiteFanfic\\simulado-prova-csweb.csproj",
       "projectName": "simulado-prova-csweb",
-      "projectPath": "C:\\Users\\BEJ4CT\\Desktop\\opa\\simulado-prova-csweb\\simulado-prova-csweb.csproj",
-      "packagesPath": "C:\\Users\\BEJ4CT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BEJ4CT\\Desktop\\opa\\simulado-prova-csweb\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\pa\\WebSiteFanfic\\simulado-prova-csweb.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\pa\\WebSiteFanfic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BEJ4CT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4804,7 +4807,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
